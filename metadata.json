@@ -1,0 +1,6 @@
+{
+  "name": "E-commerce Store with Dashboard",
+  "description": "A fully featured e-commerce application with secure checkout simulation, interactive product filtering, personal order tracking dashboard, and automated email notification logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
